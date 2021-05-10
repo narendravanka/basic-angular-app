@@ -1,0 +1,23 @@
+.spacer{
+    flex: 1 1 auto;
+    display: flex;
+    justify-content: center;
+}
+
+mat-toolbar {
+    height: 36px;
+}
+
+mat-nav-list {
+    width: 200px;
+}
+
+.content {
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.container {
+    width: 100%;
+}

@@ -1,0 +1,19 @@
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+mat-card {
+    width: 400px;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    margin-top: 10vw;
+}
+.button {
+    display: flex;
+    gap: 180px;
+    justify-content: center;
+}
